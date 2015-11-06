@@ -1,0 +1,33 @@
+{
+  "name": "THEOplayer",
+  "version": "",
+  "url": "https://www.theoplayer.com/",
+  "description": "The world's most comprehensive HTML5 Video player",
+  "repository": "https://github.com/pieterhillewaert/THEOplayer",
+  "license": "",
+
+
+  "flags": {
+    "library": "jquery",
+    "flash": true,
+    "api": true,
+    "unifiedLook": true,
+    "unifiedAPI": true,
+    "fullscreen": true,
+    "keyboard": true,
+    "subtitles": true,
+    "playlists": true,
+    "responsive": true,
+    "embeddable": false,
+    "cms": ["wordpress"],
+    "services": ["no plugins needed"],
+    "skinnable": true,
+    "audioOnly": true,
+    "speedControl": true,
+    "qualityControl": true,
+    "hosted": true,
+    "aria": true,
+    "hls": true,
+    "dash": true
+  }
+}
